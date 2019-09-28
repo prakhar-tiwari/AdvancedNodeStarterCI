@@ -19,4 +19,4 @@ script:
   - sleep 3
   - npm run test
 notifications:
-  -email: false
+  - email: false
